@@ -1,9 +1,9 @@
 # VBA-Restaurant-Simulation
 VBA Restaurant Simulation
 
-A basic restaurant simulation in VBA.
+A detailed restaurant simulation in VBA.
 
-The goal is to teach high school level student the basics of menu planning, pricing and read accounting statements (
+The goal is to teach high school level student the basics of menu planning, pricing and inventory management.  They will also learn how to read accounting statements (
 P&L, balance sheet and cashflow).
 
 I am looking for any help making the simulation better.  More professional, better coding, and any improvment suggeestions. 
