@@ -1,7 +1,7 @@
 # VBA-Restaurant-Simulation
 VBA Restaurant Simulation
 
-A detailed restaurant simulation in VBA.
+A detailed restaurant simulation in VBA. Include PED - price sales tradenoffs
 
 The goal is to teach high school level student the basics of menu planning, pricing and inventory management.  They will also learn how to read accounting statements (
 P&L, balance sheet and cashflow).
